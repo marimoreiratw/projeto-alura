@@ -35,11 +35,11 @@ Você deverá realizar as seguintes etapas para seu projeto:
 
 ### Passo 1: Desenvolvendo seu projeto de conclusão de curso 
 
-#### Passo 2: Defina o formato e tema do seu projet
+### Passo 2: Defina o formato e tema do seu projet
 
-#### Passo 3: Reproduza as entregas do seu projeto
+### Passo 3: Reproduza as entregas do seu projeto
 
-#### Passo 4: Publique e compartilhe seu projeto
+### Passo 4: Publique e compartilhe seu projeto
 
 
 ### O que vimos aqui 
