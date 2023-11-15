@@ -33,19 +33,19 @@ Você deverá realizar as seguintes etapas para seu projeto:
 • Estar matriculado em, pelo menos, uma formação de alguma das escolas da Alura
 • Mínimo de 70% das aulas assistidas do curso escolhido
 
-### Desenvolvendo seu projeto de conclusão de curso 
+### Passo 1: Desenvolvendo seu projeto de conclusão de curso 
 
-#### Defina o formato e tema do seu projet
+#### Passo 2: Defina o formato e tema do seu projet
 
-#### Reproduza as entregas do seu projeto
+#### Passo 3: Reproduza as entregas do seu projeto
 
-#### Publique e compartilhe seu projeto
+#### Passo 4: Publique e compartilhe seu projeto
 
 
 ### O que vimos aqui 
 
-Ao final deste tutorial, você viu como fizemos...
+Ao final deste tutorial, você viu qual o processo de planejamento e execução de um projeto de conclusão de curso dentro da Alura. Importante frisar que alguns dos passos deste tutorial podem mudar de acordo com o tamanho do seu projeto e das especificações que são passadas pelo professor no início do curso.
 
 ### Próximos Passos 
-• Conheça o template de guia how-to 
-• Volte ao README para conhecer outros formatos de documentação 
+• Continue sua trilha de estudos e veja quais cursos fazer 
+• Volte ao README deste projeto para conhecer outros formatos de documentação 
