@@ -13,15 +13,17 @@ Existem 2 possíveis abordagens para tutoriais
 
 Neste tutorial, você irá configurar... 
 
-### Visão Geral 
+## Visão Geral 
 
 Você deverá realizar as seguintes etapas: 
 
 • **Passo 1: texto** 
+
 • **Passo 2: texto**
+
 • **Passo 3: texto** 
 
-### Objetivos 
+## Objetivos 
 
 ### Antes de começar 
 É necessário que você tenha algumas configurações prévias antes de iniciar o tutorial: 
