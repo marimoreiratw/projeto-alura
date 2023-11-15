@@ -6,7 +6,7 @@ Este repositório faz parte do curso de formação **Introdução ao Technical W
 ## Tipos de documentação 
 O curso irá abordar 6 formatos de documentação técnica: 
 
-1. Documentação Funcional 
+1. [Documentação Funcional](https://github.com/marimoreiratw/projeto-alura/blob/main/documenta%C3%A7%C3%A3o-fundional.md)
 2. [Tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md)
 3. Guia how-to (How-to guide)
 4. Guia do Usuário (User Guide)
