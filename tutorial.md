@@ -9,35 +9,37 @@ Existem 2 possíveis abordagens para tutoriais
 
 ## Exemplo de documentação 
 
-# Título Tutorial 
+# Crie um projeto de conclusão de curso dentro da Alura  
 
-Neste tutorial, você irá configurar... 
+Neste tutorial, você irá entender como construir um projeto de conclusão de curso para qualquer formação que você realizar dentro da Alura. 
 
 ## Visão Geral 
 
-Você deverá realizar as seguintes etapas: 
+Ter um projeto de conclusão é impresncindível para você concluir qualquer formação da Alura, pois serve como ferramenta de fixação de conhecimento e também como comprovação de que você colocou em prática todos os conceitos abordados dentro de qualquer curso que realizar dentro da plataforma.
 
-• **Passo 1: texto** 
+Você deverá realizar as seguintes etapas para seu projeto: 
 
-• **Passo 2: texto**
+• **Passo 1: Defina o formato e tema do seu projeto** 
 
-• **Passo 3: texto** 
+• **Passo 2: Reproduza as entregas do seu projeto**
+
+• **Passo 3: Publique e compartilhe seu projeto** 
 
 ## Objetivos 
 
 ### Antes de começar 
 É necessário que você tenha algumas configurações prévias antes de iniciar o tutorial: 
 
-• Pré-requisito 1
-• Pré-requisito 2
+• Estar matriculado em, pelo menos, uma formação de alguma das escolas da Alura
+• Mínimo de 70% das aulas assistidas do curso escolhido
 
-### Configurando o [tema tutorial]
+### Desenvolvendo seu projeto de conclusão de curso 
 
-#### Passo 1
+#### Defina o formato e tema do seu projet
 
-#### Passo 2
+#### Reproduza as entregas do seu projeto
 
-#### Passo 3
+#### Publique e compartilhe seu projeto
 
 
 ### O que vimos aqui 
