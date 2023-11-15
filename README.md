@@ -7,7 +7,7 @@ Este repositório faz parte do curso de formação **Introdução ao Technical W
 O curso irá abordar 6 formatos de documentação técnica: 
 
 1. Documentação Funcional 
-2. Tutorial 
+2. [Tutorial](https://github.com/marimoreiratw/projeto-alura/blob/main/tutorial.md)
 3. Guia how-to (How-to guide)
 4. Guia do Usuário (User Guide)
 5. Guia de Início Rápido (Quick Start Guide)
