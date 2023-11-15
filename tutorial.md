@@ -65,5 +65,5 @@ Depois de realizar todas as etapas anteriores, o seu projeto está pronto para s
 Ao final deste tutorial, você viu qual o processo de planejamento e execução de um projeto de conclusão de curso dentro da Alura. Importante frisar que alguns dos passos deste tutorial podem mudar de acordo com o tamanho do seu projeto e das especificações que são passadas pelo professor no início do curso.
 
 ### Próximos Passos 
-• Continue sua trilha de estudos e veja quais cursos fazer 
-• Volte ao README deste projeto para conhecer outros formatos de documentação 
+* Continue sua trilha de estudos e veja quais cursos fazer
+* Volte ao README deste projeto para conhecer outros formatos de documentação 
