@@ -12,5 +12,5 @@ O curso irá abordar 6 formatos de documentação técnica:
 4. [Troubleshooting](https://github.com/marimoreiratw/projeto-alura/blob/main/troubleshooting.md)
 5. [Release Notes](https://github.com/marimoreiratw/projeto-alura/blob/main/release-notes.md)
 6. Guia do Usuário (User Guide)
-7. Guia de Início Rápido (Quick Start Guide)
+7. [Guia de Início Rápido (Quick Start Guide)](https://github.com/marimoreiratw/projeto-alura/blob/main/guia-in%C3%ADcio-r%C3%A1pido.md)
 8. Perguntas frequentes (FAQ)
