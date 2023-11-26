@@ -5,34 +5,27 @@ A documentação funcional é o tipo de documento que apresenta um produto, func
 
 ## Exemplo de documentação 
 
-# Alura 
+# Bytebank
 
-A Alura é a maior plataforma brasileiro de cursos de tecnologia. Dividida em 8 escolas, oferece a você um portfólio com mais de 1400 formações em áreas como programação, ciência de dados, inteligência artificial, gestão, UX e inovação.
+A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
 
-A seguir, você encontra mais informações sobre a Alura: 
+A seguir, você encontra mais informações sobre: 
 
-• Como são os cursos? 
-• Para quem é a Alura?
-• Por qual curso devo começar?
-• Como me torno aluno? 
+• Serviços disponíveis 
+• Para quem é a Bytebank? 
+• Como criar sua conta  
 
-### Como são os cursos? 
 
-Todas as formações da Alura são desenvolvidas de maneira personalizada, de acordo com os objetivos de aprendizagem de cada curso. As aulas são gravadas e conta com exercícios práticos, projetos e uma comunidade ativa de alunos que promovem discussões que aprofundam o conhecimento adquirido com os cursos. 
+### Serviços disponíveis
 
-### Para quem é a Alura? 
+Todos os serviços da Bytebank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
 
-Os cursos e formações da Alura são indicados para profissionais em todas as fases da carreira, do iniciante ao avançado.
+### Para quem é a Bytebank? 
 
-### Por qual curso devo começar? 
+Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de sua vida financeira. Se você tem mais de 18 anos, pode criar sua conta acessando o nosso site e seguindo os passos indicados. 
 
-A Alura constrói seus cursos com foco na pluralidade de jornadas de aprendizagem. Isso significa que não existe um único caminho 
+No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto responsável realize a abertura de conta e seja o responsável financeiro. 
 
-### Como me torno aluno? 
+### Crie sua conta
 
-Você pode fazer parte do ecossistema de cursos da Alura adquirindo um dos planos disponíveis: 
-
-| Plano | Descrição |
-|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PLUS | Plano com direito a todos os cursos da Alura e acesso aos certificados de cada curso, desafios e challenges oferecidos na plataforma |
-| PRO | Plano que oferece todas as vantagens do PLUS, além dos recursos de inteligência artificial (LURI powered by ChatGPT) e Alura Língua, o curso de inglês para Devs |
+Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [**Como criar sua conta**](URL)
