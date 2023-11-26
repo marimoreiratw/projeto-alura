@@ -11,9 +11,9 @@ A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida
 
 A seguir, você encontra mais informações sobre: 
 
-• Serviços disponíveis 
-• Para quem é a Bytebank? 
-• Como criar sua conta  
+* Serviços disponíveis
+* Para quem é a Bytebank?
+* Como criar sua conta  
 
 
 ### Serviços disponíveis
