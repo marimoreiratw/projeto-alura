@@ -9,21 +9,23 @@ Existem 2 possíveis abordagens para tutoriais
 
 ## Exemplo de documentação 
 
-# Crie um projeto de conclusão de curso dentro da Alura  
+# Crie uma conta na ByteBank 
 
-Neste tutorial, você irá entender como construir um projeto de conclusão de curso para qualquer formação que você realizar dentro da Alura. 
+Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
 
 ## Visão Geral 
 
-Ter um projeto de conclusão é impresncindível para você concluir qualquer formação da Alura, pois serve como ferramenta de fixação de conhecimento e também como comprovação de que você colocou em prática todos os conceitos abordados dentro de qualquer curso que realizar dentro da plataforma.
+Ter uma conta é o primeiro passo para iniciar a gestão das suas finanças com os serviços da Bytebank. A partir dela, você poderá acessar os produtos de investimento, realizar transações sem taxas e solicitar um cartão com função dupla de crédito ou débito. 
 
-Você deverá realizar as seguintes etapas para seu projeto: 
+No caso de correntistas entre 16 e 18 anos, a criação de conta deve ser feita por seu responsável financeiro. Uma vez concluída as etapas, a titularidade é transferida e você pode assumir a gestão da conta pelo aplicativo ou site da Bytebank. 
 
-• **Passo 1: Defina o formato e tema do seu projeto** 
+Você deverá realizar as seguintes etapas para adquirir sua conta: 
 
-• **Passo 2: Reproduza as entregas do seu projeto**
+• **Passo 1: Realize o cadastro na plataforma** 
 
-• **Passo 3: Publique e compartilhe seu projeto** 
+• **Passo 2: Preencha ao formulário de perfil de investidor**
+
+• **Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos** 
 
 ## Objetivos 
 
