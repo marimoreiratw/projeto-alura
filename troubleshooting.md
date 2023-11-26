@@ -16,12 +16,14 @@ Algumas orientações para escrever um troubleshooting de acordo com o [guia do 
 
 ## 1. Erro ao acessar sua conta
  
-[causas disso acontecer]
+Devido a instabilidades de processamento de dados, pode acontecer de você tentar realizar o login na sua conta e não conseguir.
 
 ### Soluções 
 
 1. Redefina sua senha 
 2. Recarregue a página
+
+Caso o erro persista, verifique se sua conexão à internet está funcionando ou entre em contato pelo Bytebot ou telefone da Central de Atendimento: (11) 00000-0000.
 
 ### Links relacionados 
 
