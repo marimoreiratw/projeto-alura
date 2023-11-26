@@ -12,21 +12,23 @@ Algumas dicas para um bom how-to, de acordo com a [abordagem de diátaxis](https
 
 ## Exemplo de documentação 
 
-# Como criar um repositório de documentação no Github
+# Como criar uma conta na Bytebank
 
 ### Pré-requisitos
 
 Antes de iniciar, tenha certeza de que você tem: 
-* Versão 1.0 da ferramenta 
-* Ambiente configurado 
+* Documento com foto (RG ou CNH)
+* Comprovante de residência 
+* Informações do responsável financeiro (no caso de contas abertas para jovens entre 16 e 18 anos)
 
-### 1. Crie um repositório no Github
+### 1. Realize o cadastro
 
-1.1 - Entre em seu perfil no Github e acesse a área Repositórios (ou Repositories)
+1.1 - Abra o aplicativo da Bytebank e selecione a opção **Abrir minha conta**
 
-1.2 - No canto superior direito, selecione o botão verde **Novo** (New) para criar um novo repositório
+1.2 - Vai abrir uma página com os campos que você precisa preencher: Nome completo, e-mail e senha
 
-![Captura de Tela 2023-11-15 às 20 39 59](https://github.com/marimoreiratw/projeto-alura/assets/98783099/0214d912-78d1-4cd5-b6d2-9bb85fdc7752)
+![Captura de Tela 2023-11-26 às 18 31 55](https://github.com/marimoreiratw/projeto-alura/assets/98783099/2eb53143-e2e6-4c22-93e3-dd1601003404)
+
 
 
 ### 2. Defina as configurações do seu repositório 
