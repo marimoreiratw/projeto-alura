@@ -77,6 +77,7 @@ Você encontra o formulário na seção **Investimentos** dentro da página inic
 
 ### Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 
+Outra possibilidade que você tem é de entrar com processo de portabilidade para que todo seu histórico financeiro seja transferido para Bytebank. Neste caso, nossa recomendação é abrir o pedido direto com nossa Central de Atendimento pelo Bytebot ou no telefone (11) 00000-0000. 
 
 
 ```
@@ -87,7 +88,7 @@ Caso você tenha dúvidas sobre o projeto durante esta fase de construção, voc
 
 ### O que vimos aqui 
 
-Ao final deste tutorial, você viu qual o processo de planejamento e execução de um projeto de conclusão de curso dentro da Alura. Importante frisar que alguns dos passos deste tutorial podem mudar de acordo com o tamanho do seu projeto e das especificações que são passadas pelo professor no início do curso.
+Ao final deste tutorial, você viu qual o processo de criar uma conta na Bytebank e a possibilidade de solicitar o serviço de portabilidade.
 
 ### Próximos Passos 
 * Solicite seu cartão de crédito e débito
