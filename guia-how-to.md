@@ -31,17 +31,16 @@ Antes de iniciar, tenha certeza de que você tem:
 
 
 
-### 2. Defina as configurações do seu repositório 
+### 2. Ative sua conta pelo link de confirmação 
 
-2.1 - Preencha os campos com as informações para criar seu repositório
+2.1 - Entre na conta de e-mail informada durante o cadastro
 
-2.2 - Ao final, selecione o botão **Crie repositório** (Create repository)
+2.2 - Veja se o e-mail com o assunto **Ative sua conta Bytebank** chegou e abra o link que aparece nele 
 
-![Captura de Tela 2023-11-15 às 20 41 35](https://github.com/marimoreiratw/projeto-alura/assets/98783099/64e462a3-f717-4be2-be6c-4ff944cc1d19)
+2.3 - Ao final, deve aparecer esta página de entrada na sua conta: 
 
-O seu repositório deverá aparecer desta forma: 
+![Captura de Tela 2023-11-26 às 18 35 41](https://github.com/marimoreiratw/projeto-alura/assets/98783099/e959ab94-686e-44f1-9c5b-0d1d86b6650d)
 
-![Captura de Tela 2023-11-15 às 20 45 47](https://github.com/marimoreiratw/projeto-alura/assets/98783099/cb94d05d-e091-49a8-8425-a522b9f4e29a)
 
 
 
