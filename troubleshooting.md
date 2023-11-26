@@ -12,7 +12,7 @@ Algumas orientações para escrever um troubleshooting de acordo com o [guia do 
 
 ## Exemplo de documentação 
 
-# Troubleshooting Alura 
+# Troubleshooting Bytebank 
 
 ## 1. Erro ao acessar sua conta
  
