@@ -30,36 +30,30 @@ Você deverá realizar as seguintes etapas para adquirir sua conta:
 ## Objetivos 
 
 ### Antes de começar 
-É necessário que você tenha algumas configurações prévias antes de iniciar o tutorial: 
+É necessário que você tenha os seguintes documentos para realizar o seu cadastro:
 
-• Estar matriculado em, pelo menos, uma formação de alguma das escolas da Alura
-• Mínimo de 70% das aulas assistidas do curso escolhido
+* Documento oficial com foto (RG ou CNH)
+* Comprovante de residência com validade de até 3 meses
 
-### Passo 1: Desenvolvendo seu projeto de conclusão de curso 
+### Passo 1: Realizando seu cadastro na Bytebank 
 
-### Passo 2: Defina o formato e tema do seu projeto
+### Passo 2: Preencha o formulário de perfil de investidor 
 
-Todos os cursos da Alura são construídos para atrelar teoria e prática e, por isso, sempre tem um projeto proposto para que o aluno realize tarefas à medida em que passa pelas aulas. Caso o curso que esteja assistindo não tenha um tema pré-definido, você pode escolher o tema de sua preferência. Outra possibilidade é consultar a comunidade da Alura em busca de sugestões. 
+O formulário de perfil de investidor é composto de perguntas que ajudam o banco a conhecer a sua relação com investimentos e, principalmente, ao risco envolvido dependendo do produto adquirido na sua carteira de investimentos. De acordo com a classificação do Banco Central do Brasil (BACEN), é possível ter 3 perfis:
 
-Uma vez definido o tema, é o momento de escolher o formato do seu projeto. Por exemplo, será um repositório do Github (como o projeto deste curso), ou pode ser realizado em outra plataforma. Algumas perguntas para te ajudar nesta escolha: 
-• Quais ferramentas me permitem entregar o projeto que quero executar? 
-• É uma ferramenta paga ou que preciso de permissão para acessar? 
+* Perfil Conservador
+* Perfil Moderado
+* Perfil Arrojado
 
 
-### Passo 3: Reproduza as entregas do seu projeto
+### Passo 3 (Opcional): Solicite a portabilidade de contas suas com outros bancos
 
-Nos cursos da Alura, você vai encontrar aulas com formato **Faça como eu fiz**. Estas aulas têm o objetivo de orientar você a realizar a mesma atividade que o professor executou ou demonstrou em alguma das aulas do curso. 
 
-Quando se trata do projeto de conclusão, é bem provável que as entregas que você deve realizar já tenham sido explicadas nestes formatos de conteúdo. Sendo assim, você só precisa acessar novamente a plataforma da Alura, revisitar estas aulas de **Faça como eu fiz** e executar cada uma das tarefas propostas até que tenha todo o projeto finalizado. 
 
 ```
 IMPORTANTE
 Caso você tenha dúvidas sobre o projeto durante esta fase de construção, você tem a opção de entrar em contato com seu professor do curso pela plataforma ou conversar diretamente com a comunidade de alunos da Alura
 ```
-
-### Passo 4: Publique e compartilhe seu projeto
-
-Depois de realizar todas as etapas anteriores, o seu projeto está pronto para ser entregue. Você pode publicá-lo na plataforma da Alura para que o professor revise e dê feedbacks ou compartilhar em suas redes sociais, servindo também como portfólio de trabalho. 
 
 
 ### O que vimos aqui 
@@ -67,5 +61,5 @@ Depois de realizar todas as etapas anteriores, o seu projeto está pronto para s
 Ao final deste tutorial, você viu qual o processo de planejamento e execução de um projeto de conclusão de curso dentro da Alura. Importante frisar que alguns dos passos deste tutorial podem mudar de acordo com o tamanho do seu projeto e das especificações que são passadas pelo professor no início do curso.
 
 ### Próximos Passos 
-* Continue sua trilha de estudos e veja quais cursos fazer
+* Solicite seu cartão de crédito e débito
 * Volte ao README deste projeto para conhecer outros formatos de documentação 
