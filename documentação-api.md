@@ -18,16 +18,16 @@ curl -H ‘Authorization: Bearer <ENV_ACCESS_TOKEN>’  \
 https://api.mercadopago.com/V1/payments
 ````
 
-### Pagamentos
+## Pagamentos
 
 É o recurso que permite você criar, obter ou gerenciar os pagamentos da sua loja virtual integrada aos serviços financeiros da Bytebank.  
 
-#### URL base para as chamadas 
+### URL base para as chamadas 
 ```
 https://api.mercadopago.com/v1/payments
 ```
 
-#### Endpoints
+### Endpoints
 
 | Método | Nome do endpoint | Descrição |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
