@@ -44,7 +44,6 @@ https://api.mercadopago.com/v1/payments
 [{GET} /{request-url}/{{path-parameter}}](https://api.mercadopago.com/v1/payments/search)]
 ```
 
-
 ### Requisição
 
 #### Parâmetros 
@@ -56,34 +55,8 @@ https://api.mercadopago.com/v1/payments
 | ```external_reference``` | string | Sim | É uma referência externa do pagamento |
 | ```range``` | string | Sim | Define o intervalo de busca pelos pagamentos. | 
 
-#### Query parameters
 
-{This section is optional.}
-
-| Query parameter | Type | Required? | Description                             |
-|-----------------|------|-----------|-----------------------------------------|
-| {pageSize}      | int  | Optional  | {The number of items to be returned in a single request. The default value is N.} |
-|                 |      |           |                                         |
-
-#### Header parameters
-
-{This section is optional.}
-
-| Header parameter | Type   | Required? | Description                          |
-|------------------|--------|-----------|--------------------------------------|
-| {Content-Type}   | string | Required  | {Media type of the resource. Must be an object.} |
-|                  |        |           |                                      |
-
-#### Request body
-
-{This section is optional.}
-
-| Field  | Type   | Required? | Description                      |
-|--------|--------|-----------|----------------------------------|
-| {id}   | string | Required  | {Unique identifier of the user}  |
-| {name} | string | Optional  | {Name of the user}               |
-
-### Request example
+### Exemplo de Requisição
 
 ```
 curl -X GET \
@@ -93,16 +66,63 @@ curl -X GET \
        
 ```
 
-### Response schema
+### Resposta
 
 | Status code | Schema                                  | Description          |
 |-------------|-----------------------------------------|----------------------|
-| `2xx`       | [{ExampleDataType}](#data-model)        | {Describe the result where the request succeeds.} |
-| `4xx`       | [{ExampleErrorType}](#exampleerrortype) | {Describe the result where the request fails with the specified error code.} |
+| `200`       | [{ExampleDataType}](#data-model)        | Request suceeds. |
+| `403`       | [{ExampleErrorType}](#exampleerrortype) |  | The caller is not authorized to perform this action.
+
 
 ### Response example
 
 ```
-{Provide an example of the API response, filled with sample values.}
+[
+  {
+    "paging": {
+      "total": 17493,
+      "limit": 30,
+      "offset": 0
+    },
+    "results": [
+      {
+        "id": 1,
+        "date_created": "2017-08-31T11:26:38.000Z",
+        "date_approved": "2017-08-31T11:26:38.000Z",
+        "date_last_updated": "2017-08-31T11:26:38.000Z",
+        "money_release_date": "2017-09-14T11:26:38.000Z",
+        "payment_method_id": "account_money",
+        "payment_type_id": "credit_card",
+        "status": "approved",
+        "status_detail": "accredited",
+        "currency_id": "BRL",
+        "description": "Pago Pizza",
+        "collector_id": 2,
+        "payer": {
+          "id": 123,
+          "email": "test_user_80507629@testuser.com",
+          "identification": {
+            "type": "CPF",
+            "number": 19119119100
+          },
+          "type": "customer"
+        },
+        "metadata": {},
+        "additional_info": {},
+        "transaction_amount": 250,
+        "transaction_amount_refunded": 0,
+        "coupon_amount": 0,
+        "transaction_details": {
+          "net_received_amount": 250,
+          "total_paid_amount": 250,
+          "overpaid_amount": 0,
+          "installment_amount": 250
+        },
+        "installments": 1,
+        "card": {}
+      }
+    ]
+  }
+]
 ```
 ---
