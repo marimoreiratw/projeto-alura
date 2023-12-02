@@ -1,4 +1,4 @@
-# Projeto Alura - Curso Introdução a Technical Writing
+# Projeto Alura - Documentações da Bytebank
 
 ## Contexto 
 Este repositório faz parte do curso de formação **Introdução ao Technical Writing**, da Alura. Nele, você vai encontrar modelos de documentações técnicas que serão abordadas nas aulas com objetivo de fixar seus conhecimentos e trazer modelos de base para você iniciar neste universo de documentar. 
