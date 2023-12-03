@@ -9,7 +9,7 @@ Existem 2 possíveis abordagens para tutoriais
 
 ## Exemplo de documentação 
 
-# Crie uma conta na ByteBank 
+# Crie uma conta na Bytebank 
 
 Neste tutorial, você irá entender como iniciar a gestão da sua vida financeira criando uma conta gratuita na Bytebank.
 
