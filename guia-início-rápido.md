@@ -1,7 +1,7 @@
 ## Modelo de Guia de Início Rápido (Quick Start Guide)
 
 ### Contexto 
-O Guia de Início Rápido (Quick Start Guide) é uma documentação para orientar o usuário que está usando seu produto ou serviço pela primeira vez. Em geral, é a documentação presente em um seção de Comece Aqui (Get Started) dentro de um portal de desenvolvimento.
+O Guia de Início Rápido (Quick Start Guide) é uma documentação que explica como começar a usar um produto ou serviço de maneira rápida  e objetiva. Diferente de um Getting Started, o Quick Start - como o nome sugere - não se preocupa em contextualizar estes primeiros passos do usuário com um produto, mas sim em apresentar objetivamente o que precisa ser feito. 
 
 ## Exemplo de documentação 
 
