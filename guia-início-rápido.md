@@ -5,27 +5,27 @@ O Guia de Início Rápido (Quick Start Guide) é uma documentação para orienta
 
 ## Exemplo de documentação 
 
-# Adicionando o repositório de documentação do curso no seu projeto
+# Iniciando seus investimentos na Bytebank
 
 ### Visão Geral
 
-Este guia rápido vai te orientar nos seguintes passos
+Este guia rápido vai te orientar no seguinte processo:
 
-* Acessar o repositório do projeto do curso Introdução a Technical Writing
-* Fazer download do projeto para seu computador
-* Editar o projeto de maneira local (dentro da sua IDE)
+* Adquirir seu primeiro investimento na Bytebank
 
 ### Antes de começar
 
-Certifique-se de que você tem as seguintes ferramentas:
+Certifique-se de que você atende aos pré-requisitos:
 
-* Conta no Github
-* Uma IDE (Ex: Visual Studio Code)
+* Conta na Bytebank
+* Dinheiro disponível em conta
 
-### Instalação
+### Comece a investir
 
-#### Passo 1: Acesse o projeto no Github  
-#### Passo 2: Faça um fork do repositório
+#### Passo 1: Acesse a seção Investimentos 
+#### Passo 2: Selecione o investimento que quer adquirir 
+
+#### Passo 3: Preencha as informações  
 
 
 
