@@ -7,14 +7,14 @@ O FAQ, também conhecido como Perguntas Frequentes, é a documentação que reú
 
 # Perguntas Frequentes (FAQ)
 
-### 1. Pergunta?
+### 1. O que é a Bytenbank?
 
-Resposta
+A Bytebank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros, que oferece serviços de cartão de crédito ou débito, investimentos e gestão financeira através de um aplicativo (disponível para iOS e Android) e site. 
 
-### 2. Pergunta?
+### 2. Existe custo para criar minha conta?
 
-Resposta
+Não, a criação de conta na Bytebank é gratuita. 
 
-### 3. Pergunta?
+### 3. Como crio minha conta na Bytenbank pelo celular?
 
-Resposta
+Você pode criar sua conta na Bytebank seguindo as instruções da nossa documentação. 
