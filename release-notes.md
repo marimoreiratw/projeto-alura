@@ -7,7 +7,7 @@ A Release Notes (em tradução livre, "notas de versão") é uma documentação 
 
 # Release Bytebank - Versão 1.0.1
 
-###**14/11/2023**
+### **14/11/2023**
 Nesta versão, nós trouxemos melhorias para facilitar o uso do serviço de Investimentos e corrigimos bugs no carregamento do aplicativo. 
 
 
